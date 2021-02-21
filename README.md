@@ -1,6 +1,6 @@
 # Phân loại kết ấn ninja trong phim hoạt hình Naruto bằng Convolutional Neural Network.
 **Tóm tắt.**
-Chúng tôi dùng deep learing để giải bài toán phân loại ảnh chứa các kết ấn ninja trong phim hoạt hình Naruto, sử dụng dataset của Kaggle, model: ImageNet pretrained model CNN: VGG16 và học bằng phương pháp Transfer Learning.  
+Chúng tôi dùng deep learing để giải bài toán phân loại ảnh chứa các kết ấn ninja trong phim hoạt hình Naruto, sử dụng dataset của Kaggle. Sử dụng FastAI (một open-source framework được phát triển từ Pytorch) Model: ImageNet pretrained model CNN: VGG16 và học bằng phương pháp Transfer Learning.  
 
 **Keywords**: machine learning, CNN, deep neural network, classification
 # Các tài liệu trong repo:
